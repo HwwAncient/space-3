@@ -212,7 +212,7 @@ sh scripts/multiwoz22/infer.sh
 - For the data preparation and evaluation on MultiWOZ2.0/MultiWOZ2.1/In-Car Assistant/CamRest, we refer to the code of [GALAXY](https://github.com/siat-nlp/GALAXY).
 
 ## Citation
-If you use our code or find SPACE useful in your work, please cite our paper as:
+If you use our code or find SPACE-3 useful in your work, please cite our paper as:
 
 ```bib
 @inproceedings{he2022unified,
@@ -225,4 +225,4 @@ If you use our code or find SPACE useful in your work, please cite our paper as:
 ```
 
 ## Contact
-For personal communication related to SPACE, please contact Wanwei He (`ww.he@siat.ac.cn`).
+For personal communication related to SPACE-3, please contact Wanwei He (`ww.he@siat.ac.cn`).
